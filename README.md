@@ -1,5 +1,5 @@
-# AI-Powered-Resume-Screening-and-Classification-System
-AI-Powered Resume Screening System: Automates resume analysis using NLP and machine learning. Extracts skills, experience, and classifies candidates based on job requirements, streamlining recruitment and improving hiring efficiency.
+# AI-Powered Resume Screening & Analytics System
+AI-Powered Resume Screening & Analytics System: Automates resume analysis using NLP and machine learning. Extracts skills, experience, and classifies candidates based on job requirements, streamlining recruitment and improving hiring efficiency.
 [Dataset Used](https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset)
 
 Some Visuals-
